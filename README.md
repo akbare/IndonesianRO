@@ -1,0 +1,2 @@
+# IndonesianRO
+Ragnarok Indonesian File
